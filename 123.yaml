@@ -9,7 +9,7 @@ services:
       service:
         name: serverless-devs-application
       function:
-        name: stable-diffusion-webui-v2bj
+        name: stable-diffusion-webui-sz4b
         description: Initialize
         runtime: custom
         environmentVariables:
